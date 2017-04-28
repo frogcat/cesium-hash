@@ -1,0 +1,22 @@
+{
+  "name": "cesium-hash",
+  "version": "1.0.0",
+  "description": "Add URL hashes to web pages with Cesium globes and maps",
+  "main": "cesium-hash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogcat/cesium-hash.git"
+  },
+  "keywords": [
+    "cesium"
+  ],
+  "author": "frogcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frogcat/cesium-hash/issues"
+  },
+  "homepage": "https://github.com/frogcat/cesium-hash#readme",
+  "peerDependencies": {
+    "cesium": "^1.32.1"
+  }
+}
